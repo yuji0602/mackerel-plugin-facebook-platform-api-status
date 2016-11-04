@@ -63,7 +63,7 @@ func FacebookPlatformApiStatus() (float64, error) {
 }
 
 func main() {
-	optPrefix := flag.String("metric-key-prefix", "Facebook Platform Api Status", "Metric key prefix")
+	optPrefix := flag.String("metric-key-prefix", "FacebookPlatformApiStatus", "Metric key prefix")
 	optTempfile := flag.String("tempfile", "", "Temp file name")
 	flag.Parse()
 
