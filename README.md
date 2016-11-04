@@ -11,7 +11,7 @@ $ mackerel-plugin-facebook-platform-api-status
 
 ```
 [plugin.metrics.facebook-platform-api-status]
-command = "/path/to/mackerel-plugin-facebook-platform-api
+command = "/path/to/mackerel-plugin-facebook-platform-api-status
 ```
 
 ## Author
